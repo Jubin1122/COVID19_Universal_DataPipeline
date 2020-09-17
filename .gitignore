@@ -1,5 +1,5 @@
 #Ignore configration file
-#dwh.cfg 
+dwh.cfg 
 
 #Ignore Ipynb file
 test.ipynb
