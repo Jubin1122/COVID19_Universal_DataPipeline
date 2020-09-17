@@ -1,0 +1,38 @@
+[CLUSTER]
+dwh_endpoint = 
+db_name = 
+db_user = 
+db_password = 
+db_port = 5439
+
+[CLUSTER_SQL]
+db_user = 
+db_password = 
+dwh_endpoint = 
+db_port = 
+db_name = 
+
+[IAM_ROLE]
+dwh_role_arn = e
+
+[S3]
+covid_data_world = 
+covid_data_usa = 
+
+
+[AWS]
+key = 
+secret = 
+
+[DWH]
+dwh_cluster_type = 
+dwh_num_nodes = 
+dwh_node_type = 
+dwh_cluster_identifier = 
+dwh_db = 
+dwh_db_user = 
+dwh_db_password =
+dwh_port = 
+dwh_iam_role_name = 
+dwh_endpoint = 
+
